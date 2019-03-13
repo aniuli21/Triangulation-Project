@@ -2,7 +2,7 @@
 
 ##### Description
 
-  A project that tells if a point it is inside a convex polygon using the principle of triangulation.
+  A project that determines if a point it is inside a convex polygon using the principle of triangulation.
   It also makes a graphic representation. ( you might need to import graphics.h )
   The mathematical explanation is commented inside the .cpp file
   
